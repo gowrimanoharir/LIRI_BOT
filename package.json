@@ -1,0 +1,23 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "Language Interpretation Recognition Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowrimanoharir/LIRI_BOT.git"
+  },
+  "author": "Gowri Rajasekaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowrimanoharir/LIRI_BOT/issues"
+  },
+  "homepage": "https://github.com/gowrimanoharir/LIRI_BOT#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
