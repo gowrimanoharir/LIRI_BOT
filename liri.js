@@ -1,15 +1,18 @@
 var omdb=require('./omdb.js');
 var tweets=require('./gettweets.js');
 var spotify=require('./spotify.js');
-//var lastCmd=require('./lastcommand.js');
+var fs = require('fs');
 
 var userInput=process.argv;
 var	searchFor=userInput.splice(3).join('+').trim();
 
 liribot(userInput[2]);
 
-liribot(userCommand) => {
-
+function liribot(userCommand) {
+	var curDt = new Date();
+	if(userCommand!=='do-what-it-says'){
+		fs.appendFile('log.txt', curDt+'\n\n'+userInput.splice(2)+' '+searchFor.split('+').join(' ')+'\n');
+	}
 	if(userCommand==='movie-this'){
 		omdb.movieDtls(searchFor);
 	}
@@ -20,7 +23,18 @@ liribot(userCommand) => {
 		spotify.getSong(searchFor);
 	}
 	else if(userCommand==='do-what-it-says'){
-		omdb.movieDtls(searchFor);
+		fs.readFile('random.txt', 'utf8', function(err, data){
+			if(!err){
+				var cmdNow = data.split(',');
+				searchFor = cmdNow[1];
+				liribot(cmdNow[0]);
+			}
+			else{
+				console.log(err);
+			}
+
+		});
+		
 	}
 	else{
 		console.log("Enter a valid command from one of below:\n");

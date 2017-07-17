@@ -1,8 +1,10 @@
 var request = require('request');
 var keys = require('./keys.js');
+var fs = require('fs');
 
 
 exports.movieDtls = (movieName) =>{
+	var output;
 	movieName= (movieName==='')? "Mr.Nobody":movieName;
 	var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey="+keys.omdbKey;
 
@@ -12,9 +14,7 @@ exports.movieDtls = (movieName) =>{
 		  	var rtnRating='N/A';
 		  	movie=JSON.parse(body);
 		  	if(movie.Title){
-			  	console.log('Title: '+movie.Title);
-			  	console.log('Year: '+movie.Year);
-			  	console.log('IMDB Rating: '+movie.imdbRating);
+
 			  	if(movie.Ratings){
 				  	movie.Ratings.forEach((rtng)=>{
 				  		if(rtng.Source==='Rotten Tomatoes')
@@ -23,15 +23,22 @@ exports.movieDtls = (movieName) =>{
 				  		}		
 				  	});
 			  	}
-			  	console.log('Rotten Tomatoes Rating: '+rtnRating);
-			  	console.log('Country: '+movie.Country);
-			  	console.log('Language: '+movie.Language);
-			  	console.log('Plot: '+movie.Plot);
-			  	console.log('Actors: '+movie.Actors);
+			  	output = 
+				'\nTitle: '+movie.Title+'\n'
+			  	+'Year: '+movie.Year+'\n'
+			  	+'IMDB Rating: '+movie.imdbRating+'\n'
+			  	+'Rotten Tomatoes Rating: '+rtnRating+'\n'
+			  	+'Country: '+movie.Country+'\n'
+			  	+'Language: '+movie.Language+'\n'
+			  	+'Plot: '+movie.Plot+'\n'
+			  	+'Actors: '+movie.Actors+'\n'
+			  	+"\n************************************\n";
 		  }
 		  else{
-		  	console.log('No search results')
+		  	output='No search results';
 		  }
+		console.log(output);
+		fs.appendFile('log.txt', output+'\n');
 	  }
 
 
