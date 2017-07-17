@@ -30,7 +30,7 @@ exports.movieDtls = (movieName) =>{
 			  	console.log('Actors: '+movie.Actors);
 		  }
 		  else{
-		  	console.log('No Such Movie exists')
+		  	console.log('No search results')
 		  }
 	  }
 
