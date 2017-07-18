@@ -13,7 +13,8 @@ exports.getSong = (songName) => {
 	    console.log('Error occurred: ' + err);
 	  }
 	  else if(data.tracks.items.length===0){
-	  	output='No search results';
+	  	output='No search results'
+	  	+"\n************************************\n";
 	  }
 	  else{  	
 		output = 

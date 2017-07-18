@@ -21,13 +21,15 @@ exports.getTweets = (userName) => {
         fs.appendFile('log.txt','\n******************************\n');
       }
       else{
-            output = 'No search results';
+            output = 'No search results'
+            +"\n************************************\n";
             console.log(output);
             fs.appendFile('log.txt', output+'\n');
       }
     }
     else{
-    	output = 'There is an error please try again after sometime';
+    	output = 'There is an error please try again after sometime'
+      +"\n************************************\n";
       console.log(output);
       fs.appendFile('log.txt', output+'\n');
     }

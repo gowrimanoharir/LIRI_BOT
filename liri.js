@@ -6,6 +6,8 @@ var fs = require('fs');
 var userInput=process.argv;
 var	searchFor=userInput.splice(3).join('+').trim();
 
+
+
 liribot(userInput[2]);
 
 function liribot(userCommand) {

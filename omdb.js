@@ -35,7 +35,8 @@ exports.movieDtls = (movieName) =>{
 			  	+"\n************************************\n";
 		  }
 		  else{
-		  	output='No search results';
+		  	output='No search results'
+		  	+"\n************************************\n";
 		  }
 		console.log(output);
 		fs.appendFile('log.txt', output+'\n');
@@ -43,4 +44,6 @@ exports.movieDtls = (movieName) =>{
 
 
 	});
+
+	
 }
