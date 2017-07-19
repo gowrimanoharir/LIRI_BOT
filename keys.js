@@ -1,3 +1,5 @@
+//stores keys for apis
+
 exports.omdbKey='40e9cece';
 
 exports.twitterKeys = {

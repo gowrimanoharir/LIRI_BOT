@@ -1,4 +1,4 @@
-Mon Jul 17 2017 19:23:29 GMT-0500 (Central Daylight Time)
+Tue Jul 18 2017 20:43:27 GMT-0500 (Central Daylight Time)
 
 do-what-it-says "jingle all  the way"
 
@@ -13,89 +13,89 @@ Actors: Arnold Schwarzenegger, Sinbad, Phil Hartman, Rita Wilson
 
 ************************************
 
-Mon Jul 17 2017 19:23:36 GMT-0500 (Central Daylight Time)
+Tue Jul 18 2017 20:43:50 GMT-0500 (Central Daylight Time)
 
-get-tweets barackobama
-
-Of all that I've done in my life, I'm most proud to be Sasha and Malia's dad. To all those lucky enough to be a dad… https://t.co/XSqMhcSuvR @Sun Jun 18 15:09:20 +0000 2017
-----------------------------------------
-
-Health care has always been about something bigger than politics: it's about the character of our country. https://t.co/UqLO14Hef7 @Thu Jun 22 19:41:08 +0000 2017
-----------------------------------------
-
-On this National Gun Violence Awareness Day, let your voice be heard and show your commitment to reducing gun viole… https://t.co/S7dth6Ywb0 @Fri Jun 02 17:35:54 +0000 2017
-----------------------------------------
-
-Forever grateful for the service and sacrifice of all who fought to protect our freedoms and defend this country we… https://t.co/BwRS0onlOL @Mon May 29 13:09:16 +0000 2017
-----------------------------------------
-
-Good to see my friend Prince Harry in London to discuss the work of our foundations &amp; offer condolences to victims… https://t.co/f1U8It8AmE @Sat May 27 13:15:25 +0000 2017
-----------------------------------------
-
-Through faith, love, and resolve the character of the people of Manchester has shown itself.  Our thoughts &amp; prayer… https://t.co/xyMer891Zo @Thu May 25 14:13:35 +0000 2017
-----------------------------------------
-
-Our hearts go out to those killed and wounded in Manchester. Americans will always stand shoulder to shoulder with the people of the UK. @Tue May 23 16:56:14 +0000 2017
-----------------------------------------
-
-Excited to hear from Sierra, Imani, Filiz, and Benedikt who are making a difference at home and abroad. See you in… https://t.co/bF1kB1GvxC @Mon May 22 21:16:23 +0000 2017
-----------------------------------------
-
-Well said, Jimmy. That's exactly why we fought so hard for the ACA, and why we need to protect it for kids like Bil… https://t.co/jB3LXT94Ok @Tue May 02 17:19:26 +0000 2017
-----------------------------------------
-
-Happy Mother's Day to my love and partner on this journey @MichelleObama, and to all the wonderful, hardworking mothers out there. @Sun May 14 14:01:16 +0000 2017
-----------------------------------------
-
-RT @ObamaFoundation: It’s a beautiful day on the South Side. https://t.co/PtoaFbww0s @Mon Apr 24 19:48:17 +0000 2017
-----------------------------------------
-
-We're rolling up our sleeves again, back where it all started. Join us at https://t.co/GYkEOK8EuT. https://t.co/UlyvNrQvZR @Wed May 03 19:42:16 +0000 2017
-----------------------------------------
-
-Chuck Berry rolled over everyone who came before him – and turned up everyone who came after.  We'll miss you, Chuck.  Be good. @Sun Mar 19 15:51:23 +0000 2017
-----------------------------------------
-
-My heart goes out to the victims and their families in London. No act of terror can shake the strength and resilience of our British ally. @Thu Mar 23 13:00:20 +0000 2017
-----------------------------------------
-
-On International Women’s Day, @MichelleObama and I are inspired by all of you who embrace your power to drive chang… https://t.co/Er9mIQlmgr @Wed Mar 08 21:14:58 +0000 2017
-----------------------------------------
-
-RT @ObamaFoundation: Courage comes in many forms. Who in your local community or neighborhood leads by example? #ProfileInCourage https://t… @Thu Mar 02 19:00:04 +0000 2017
-----------------------------------------
-
-Humbled to be recognized by a family with a legacy of service. Who's your #ProfileInCourage? Tell me about them:… https://t.co/25Ohhab8Xn @Thu Mar 02 15:22:07 +0000 2017
-----------------------------------------
-
-We asked. You answered. https://t.co/mAJvko6VqR @Fri Feb 17 19:37:55 +0000 2017
-----------------------------------------
-
-Happy Valentine’s Day, @michelleobama! Almost 28 years with you, but it always feels new. https://t.co/O0UhJWoqGN @Tue Feb 14 15:34:47 +0000 2017
-----------------------------------------
-
-******************************
-
-I read letters like these every single day. It was one of the best parts of the job – hearing from you. https://t.co/so1luBcszV @Sun Jan 22 18:07:02 +0000 2017
-----------------------------------------
-Mon Jul 17 2017 19:23:47 GMT-0500 (Central Daylight Time)
-
-spotify-this-song i get overwhelmed daniel hart
+spotify-this-song amagatchi
 No search results
 ************************************
 
-Mon Jul 17 2017 19:23:57 GMT-0500 (Central Daylight Time)
+Tue Jul 18 2017 20:44:04 GMT-0500 (Central Daylight Time)
 
-movie-this emoji movie
+movie-this 
 
-Title: The Emoji Movie
-Year: 2017
-IMDB Rating: N/A
-Rotten Tomatoes Rating: N/A
-Country: USA
-Language: English
-Plot: Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
-Actors: T.J. Miller, Anna Faris, Patrick Stewart, Sofía Vergara
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 64%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 ************************************
 
+Tue Jul 18 2017 20:44:40 GMT-0500 (Central Daylight Time)
+
+get-tweets billgates
+
+I‘m a city boy…So, I was surprised to learn cowboys are using smart watches and wearables to track their cows:… https://t.co/oThyp7MPBL @Tue Jul 18 17:35:01 +0000 2017
+----------------------------------------
+
+This approach could lead to a universal (instead of seasonal) flu vaccine, and hopefully one day to an AIDS vaccine… https://t.co/mxR9FFivrF @Mon Jul 17 00:38:03 +0000 2017
+----------------------------------------
+
+Where do health grants for researchers and universities come from? Every state has received funding from the @NIH:… https://t.co/ycWL3Uqicx @Mon Jul 17 12:08:02 +0000 2017
+----------------------------------------
+
+If we can predict where the next Ebola or AIDS might emerge, we could save millions of lives:… https://t.co/c1Frap7s33 @Sat Jul 15 15:38:02 +0000 2017
+----------------------------------------
+
+A great case from @tirosenberg for why we should invest in vaccines we (hopefully) will never need to use. https://t.co/DbAFBHEBnA @Fri Jul 14 17:30:00 +0000 2017
+----------------------------------------
+
+How many jobs are supported by the NIH?Check your answer here: https://t.co/fvA5VkjE3r @Thu Jul 13 16:03:16 +0000 2017
+----------------------------------------
+
+During my visit to the @NIH, I put on a virtual reality headset and got a glimpse of the future of medicine. https://t.co/abfqCe8aXg @Wed Jul 12 00:19:54 +0000 2017
+----------------------------------------
+
+News worth sharing… U.S. foreign aid to fight malaria has saved the lives of almost two million children in Africa. https://t.co/XmMmCKEnEw @Wed Jul 12 17:28:45 +0000 2017
+----------------------------------------
+
+Every woman should be able to make choices about her own future. https://t.co/PrdP8S87qk @Tue Jul 11 17:16:00 +0000 2017
+----------------------------------------
+
+You continue to inspire me, @Malala. Thanks to you, young women around the world can dream of a brighter future for… https://t.co/p10gqPnrPF @Fri Jul 07 18:35:01 +0000 2017
+----------------------------------------
+
+.@akin_adesina’s optimism about Africa’s future is inspiring. This is a well-deserved recognition. https://t.co/WxOfQlNKxb @Fri Jul 07 16:33:00 +0000 2017
+----------------------------------------
+
+Trevor Noah’s outsider take on comedy was honed over a lifetime of never fitting in. His story is a great read. https://t.co/a9JziqZVGE @Sat Jul 01 15:31:00 +0000 2017
+----------------------------------------
+
+In the fight against a devastating disease, India has a lot to be proud of. https://t.co/VWMRLOnDzJ @Mon Jul 03 00:03:00 +0000 2017
+----------------------------------------
+
+Tune in to @Discovery at 9 pm to learn about the progress we’re making to stop the world’s deadliest animal:… https://t.co/5woh51KRuA @Thu Jul 06 17:37:35 +0000 2017
+----------------------------------------
+
+Congrats, @Venuseswilliams and @rogerfederer! Looking forward to a great weekend of tennis ahead. #Wimbledon @Fri Jul 14 20:40:31 +0000 2017
+----------------------------------------
+
+Here’s how investments in foreign aid—which account for less than 1% of the federal budget—help Americans at home:… https://t.co/ffjY5hUGxl @Thu Jun 29 16:24:01 +0000 2017
+----------------------------------------
+
+Investing in basic scientific research drives remarkable returns for America’s economy, health, energy, and defense. https://t.co/oVvgy63Nuy @Wed Jun 28 19:43:33 +0000 2017
+----------------------------------------
+
+.@SueDHellmann on why facts matter and how our foundation is encouraging collaboration and debate. https://t.co/Fr2R0ozWEg @Wed Jun 28 12:19:00 +0000 2017
+----------------------------------------
+
+Foreign aid helps promote America’s economy. Pulling back now could backfire on U.S. workers. https://t.co/3JkA3ft5eH @Tue Jun 27 17:24:00 +0000 2017
+----------------------------------------
+
+Paul Farmer is one of the most amazing people I've ever met. He recently spoke with @drsanjaygupta about his work. https://t.co/wq2NgLlf5a @Mon Jun 26 23:12:00 +0000 2017
+----------------------------------------
+
+******************************
